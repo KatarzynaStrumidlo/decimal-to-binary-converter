@@ -1,0 +1,8 @@
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\bin\Debug\Konwerter liczb dziesiętnych na binarne.exe.config
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\bin\Debug\Konwerter liczb dziesiętnych na binarne.exe
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\bin\Debug\Konwerter liczb dziesiętnych na binarne.pdb
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\obj\Debug\Konwerter liczb dziesiętnych na binarne.csproj.AssemblyReference.cache
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\obj\Debug\Konwerter liczb dziesiętnych na binarne.csproj.SuggestedBindingRedirects.cache
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\obj\Debug\Konwerter liczb dziesiętnych na binarne.csproj.CoreCompileInputs.cache
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\obj\Debug\Konwerter liczb dziesiętnych na binarne.exe
+C:\Users\strum\Desktop\C#\Konwerter liczb dziesiętnych na binarne\Konwerter liczb dziesiętnych na binarne\obj\Debug\Konwerter liczb dziesiętnych na binarne.pdb
